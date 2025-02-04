@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 3rd year B.Tech I.T student .<br>i'm looking  to collabrate on real time projects<br>I'm currently learning full stack web development<br>and i learned Intermediate DSA in CPP<br>
+I'm pursuing  B.Tech I.T in Medi-Caps University .<br>i'm looking  to collabrate on real time projects<br>I'm currently learning full stack web development<br>and i learned Intermediate DSA in CPP<br>
 
 
 ## 🌐 Socials:
